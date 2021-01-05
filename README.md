@@ -1,6 +1,6 @@
 # Criando Nuvem de Palavras (*Wordclouds*) com Python
 
-![Nuvem palavras](img/wordcloud_mickey2.png =450x)
+<img src="img/wordcloud_mickey2.png" alt="Nuvem palavras" width="400"/>
 
 Vamos ver como criar uma nuvem de palavras em Python, com a biblioteca [```Wordcloud```](https://github.com/amueller/word_cloud).
 
